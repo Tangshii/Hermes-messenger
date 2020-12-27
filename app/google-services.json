@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078138374528",
+    "firebase_url": "https://mobileapp-7d2f9-default-rtdb.firebaseio.com",
+    "project_id": "mobileapp-7d2f9",
+    "storage_bucket": "mobileapp-7d2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078138374528:android:b524030bd120281650d965",
+        "android_client_info": {
+          "package_name": "com.tange.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078138374528-r0smai4mrjuuo5nmf96u9b4t5rh5g6jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJlsUkNW1IjhgSMQfhOJmK8huCMinZmTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078138374528-r0smai4mrjuuo5nmf96u9b4t5rh5g6jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

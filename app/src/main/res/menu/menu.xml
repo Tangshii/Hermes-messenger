@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/translate"
+        android:title="Translation settings"
+        app:showAsAction="never"
+         />
+
+    <item
+        android:id="@+id/colors"
+        android:title="Color customization"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/enhance"
+        android:title="Enhanced messagesX"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+
+
+
+</menu>

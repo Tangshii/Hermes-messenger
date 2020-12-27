@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="8dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_alignParentEnd="true"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/profile_image"
+            android:visibility="gone"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+
+            android:id="@+id/userImg"
+            android:src="@mipmap/ic_launcher"
+            android:layout_alignParentRight="true"/>
+        
+        
+          <ImageView		
+             android:id="@+id/message_sender_image_view"		
+             android:layout_width="150dp"		
+             android:layout_height="150dp"		
+             android:layout_margin="5dp"		
+             android:scaleType="centerCrop"		
+             android:layout_toLeftOf="@id/userImg"		
+             android:visibility="gone"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_right"
+            android:id="@+id/show_message"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_toLeftOf="@id/userImg"
+            android:layout_marginRight="2dp"
+            android:textIsSelectable="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_seen"
+            android:layout_below="@id/show_message"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
