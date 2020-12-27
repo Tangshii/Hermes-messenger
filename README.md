@@ -17,7 +17,3 @@ Major features (unique/key)
 14. Show read and sent messages
 15. Get Notifications when we miss a message
 
-This application is developed by:
-1. Thang Nguyen
-2. Srikar Balmuri
-3. Meghana Kodali
