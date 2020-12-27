@@ -1,4 +1,4 @@
-#Hike Messenger is an Android Messaging Application developed by the students of Group 2 as a part of Mobile Application Development Course.
+#Hermes messenger is an Android Messaging Application developed by the students of Group 2 as a part of Mobile Application Development Course.
 
 Major features (unique/key)
 1. Google signin/login
@@ -21,4 +21,3 @@ This application is developed by:
 1. Thang Nguyen
 2. Srikar Balmuri
 3. Meghana Kodali
-4. Jared Goldman
