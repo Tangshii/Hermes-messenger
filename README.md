@@ -1,4 +1,5 @@
 #Hermes messenger is an Android Messaging Application developed by the students of Group 2 as a part of Mobile Application Development Course.
+<br/> to download apk for android: https://github.com/Tangshii/Hermes-messenger/raw/main/hermes.apk
 
 Major features (unique/key)
 1. Google signin/login
